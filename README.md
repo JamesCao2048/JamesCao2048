@@ -1,23 +1,21 @@
-### Hi, I'm Junming 👋
+### Hi, I'm James 👋
 
-AI Engineer focused on **efficiency engineering** — building tools and workflows that help knowledge workers get more done with AI.
+AI Engineer focused on **efficiency engineering** — building tools and workflows that help knowledge workers (such as content creators, programmers, researchers), get more done with AI.
 
 #### 🔭 What I'm working on
 
-- **[GetFlows](https://getflows.cc)** — AI-powered productivity tools for solopreneurs and knowledge workers
-- **SeedGather** — Intelligent content extraction across platforms (flagship product under GetFlows)
+- **[GetFlows](https://getflows.cc)** — AI-powered productivity tools for solopreneurs and knowledge workers 
 - **让AI替你忙** — Writing a book on AI-augmented workflows *(coming soon)*
 
 #### 📚 Research Background
 
-My academic work spans **AI for software engineering** — fault localization, deep learning systems, and LLM supply chains. Published at ASE, ESEC/FSE, ICPC, and TOCHI.
+My academic work spans **AI, software engineering, and human computer interaction** — fault localization, deep learning systems, and LLM supply chains. Published at ASE, ESEC/FSE, ICPC, and TOCHI.
 
 - 📄 [Google Scholar](https://scholar.google.com/citations?user=u2paHxEAAAAJ) — 400+ citations
-- 🏆 Notable: *Exploring the potential of ChatGPT in automated code refinement* (198 citations)
 
 #### 🛠️ Tech Stack
 
-`Python` `TypeScript` `FastAPI` `Next.js` `Playwright` `LLMs` `Deep Learning`
+`Python` `TypeScript` `FastAPI` `Java` `Vibe Coding` `Agentic Systems` `Deep Learning`
 
 #### 📫 Connect
 
