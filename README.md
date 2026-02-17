@@ -4,7 +4,7 @@ AI Engineer focused on **efficiency engineering** — building tools and workflo
 
 #### 🔭 What I'm working on
 
-- **[GetFlows]** — AI-powered productivity tools for solopreneurs and knowledge workers 
+- **GetFlows** — AI-powered productivity tools for solopreneurs and knowledge workers 
 - **让AI替你忙** — Writing a book on AI-augmented workflows *(coming soon)*
 
 #### 📚 Research Background
