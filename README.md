@@ -1,6 +1,6 @@
 ### Hi, I'm James 👋
 
-AI Engineer focused on **efficiency engineering** — building tools and workflows that help knowledge workers (such as content creators, programmers, researchers), get more done with AI.
+Agent Engineer focused on **efficiency engineering** — building tools and workflows that help knowledge workers (such as content creators, programmers, researchers), get more done with AI. Recently actively thinking how to extract expert domain knowledge and utilize them to build better agent efficiently.
 
 #### 🔭 What I'm working on
 
@@ -9,13 +9,13 @@ AI Engineer focused on **efficiency engineering** — building tools and workflo
 
 #### 📚 Research Background
 
-My academic work spans **AI, software engineering, and human computer interaction** — fault localization, deep learning systems, and LLM supply chains. Published at ASE, ESEC/FSE, ICPC, and TOCHI.
+My academic work spans **AI, Software Engineering, and Human Computer Interaction** — Code understanding/review with LLMs, human-centered AI systems, fault localization for complex deep learning systems. Published at ASE, ESEC/FSE, ICPC, and TOCHI.
 
 - 📄 [Google Scholar](https://scholar.google.com/citations?user=u2paHxEAAAAJ) — 400+ citations
 
 #### 🛠️ Tech Stack
 
-`Python` `TypeScript` `FastAPI` `Java` `Vibe Coding` `Agentic Systems` `Deep Learning`
+`Python` `Natural Language Programming` `Agentic Systems` `Deep Learning` `Claude Code` `Codex` `OpenClaw`
 
 #### 📫 Connect
 
