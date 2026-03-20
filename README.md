@@ -4,8 +4,8 @@ AI Engineer focused on **efficiency engineering** — building tools and workflo
 
 #### 🔭 What I'm working on
 
-- **GetFlows** — AI-powered productivity tools for solopreneurs and knowledge workers 
-- **让AI替你忙** — Writing a book on AI-augmented workflows *(coming soon)*
+- **jcao-skills[https://github.com/JamesCao2048/jcao-skills/]** - battle-tested agent skills in real-world workflows.
+- **Le-ai-work-for-you** — Writing a book on AI-augmented workflows *(coming soon)*
 
 #### 📚 Research Background
 
