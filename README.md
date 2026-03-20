@@ -11,7 +11,7 @@ Agent Engineer focused on **efficiency engineering** — building tools and work
 
 My academic work spans **AI, Software Engineering, and Human Computer Interaction** — Code understanding/review with LLMs, human-centered AI systems, fault localization for complex deep learning systems. Published at ASE, ESEC/FSE, ICPC, and TOCHI.
 
-- 📄 [Google Scholar](https://scholar.google.com/citations?user=u2paHxEAAAAJ) — 400+ citations
+- 📄 [Google Scholar](https://scholar.google.com/citations?user=u2paHxEAAAAJ) — 500+ citations
 
 #### 🛠️ Tech Stack
 
