@@ -1,6 +1,6 @@
 ### Hi, I'm James 👋
 
-Agent Engineer focused on **efficiency engineering** — building tools and workflows that help knowledge workers (such as content creators, programmers, researchers), get more done with AI. Recently actively thinking how to extract expert domain knowledge and utilize them to build better agent efficiently.
+Agent Engineer focused on **efficiency engineering**, building tools and workflows that help knowledge workers (such as content creators, programmers, researchers), get more done with AI. 
 
 #### 🔭 What I'm working on
 
@@ -8,7 +8,7 @@ Agent Engineer focused on **efficiency engineering** — building tools and work
 
 #### 📚 Research Background
 
-My academic work spans **AI, Software Engineering, and Human Computer Interaction** — Code understanding/review with LLMs, human-centered AI systems, fault localization for complex deep learning systems. Published at ASE, ESEC/FSE, ICPC, and TOCHI.
+I obtained my CS Ph.D. degree from Fudan University in 2025. My academic work spans **AI, Software Engineering, and Human Computer Interaction** — Code understanding/review with LLMs, human-centered AI systems, fault localization for complex deep learning systems. Published at ASE, ESEC/FSE, ICPC, and TOCHI.
 
 - 📄 [Google Scholar](https://scholar.google.com/citations?user=u2paHxEAAAAJ)
 
