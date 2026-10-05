@@ -24,8 +24,6 @@ I build execution and verification infrastructure for coding agents. My current 
 
 ## Writing
 
-## Writing
-
 - [Prompt Rules Need Runtime Enforcement](https://jamescao2048.github.io/writing/prompt-rules-runtime-enforcement/) — Why agent workflows need explicit execution controls and verifiable completion criteria.
 
 - [When Coding Gets Cheaper, Choosing What to Build Matters More](https://jamescao2048.github.io/writing/choosing-work-with-coding-agents/) — How milestones, architecture decisions, and task specifications keep coding agents focused on work that matters.
