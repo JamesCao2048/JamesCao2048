@@ -1,23 +1,31 @@
-### Hi, I'm James 👋
+# Hi, I'm Junming (James) Cao 👋
 
-Agent Engineer focused on **efficiency engineering**, building tools and workflows that help knowledge workers (such as content creators, programmers, researchers), get more done with AI. 
+**Senior Engineer | Coding Agents & Post-Training**
 
-#### 🔭 What I'm working on
+I'm a Senior Engineer at Huawei with a PhD in Computer Science from Fudan University.
 
-- **[jcao-skills](https://github.com/JamesCao2048/jcao-skills/)** - battle-tested agent skills in real-world workflows.
+I build execution and verification infrastructure for coding agents. My current focus is on how people and agents can jointly validate training environments, task specifications, and verifiers used to judge agent outputs.
 
-#### 📚 Research Background
+[Website](https://jamescao2048.github.io/) · [LinkedIn](https://www.linkedin.com/in/junming-cao-520570116/) · [Google Scholar](https://scholar.google.com/citations?user=u2paHxEAAAAJ)
 
-I obtained my CS Ph.D. degree from Fudan University in 2025. My academic work spans **AI, Software Engineering, and Human Computer Interaction** — Code understanding/review with LLMs, human-centered AI systems, fault localization for complex deep learning systems. Published at ASE, ESEC/FSE, ICPC, and TOCHI.
+## Recent Engineering Works
 
-- 📄 [Google Scholar](https://scholar.google.com/citations?user=u2paHxEAAAAJ)
+- **[Coding-Agent Post-Training Data & Evaluation](https://jamescao2048.github.io/projects/post-training/)** — Designed and built a pipeline for executable coding tasks, independent validation, agent trajectory collection, and supervised fine-tuning. Currently developing human–agent auditing methods to scale task validation.
 
-#### 🛠️ Tech Stack
+- **[Agent Harness for Kernel Engineering](https://jamescao2048.github.io/projects/operator-migration/)** — Led architecture and core development of shared infrastructure for kernel generation, numerical debugging, and migration on Ascend accelerators. Built explicit workflow control and independent acceptance checks.
 
-`Python` `Natural Language Programming` `Agentic Systems` `Deep Learning` `Claude Code` `Codex` `OpenClaw`
+  **Committer, cannbot community.** Contributions: [migration orchestration](https://gitcode.com/cann/cannbot-skills/pull/609) · [layered knowledge management](https://gitcode.com/cann/cannbot-skills/pull/611).
 
-#### 📫 Connect
+## Selected Research
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junming-cao-520570116/)
-[![Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=u2paHxEAAAAJ)
-[![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white)](https://jamescao2048.github.io/)
+- **[DeepPerf](https://github.com/DLPerf/DLPerf.github.io)** — Developed a static checker and a reproducible benchmark for deep-learning performance problems. First author, ESEC/FSE 2022.
+
+- **[CodeMap](https://gaojie058.github.io/code-map/)** — Co-authored research on human–AI code comprehension through interactive codebase visualisations. ICPC 2026 · ACM SIGSOFT Distinguished Paper Award.
+
+## Writing
+
+## Writing
+
+- [Prompt Rules Need Runtime Enforcement](https://jamescao2048.github.io/writing/prompt-rules-runtime-enforcement/) — Why agent workflows need explicit execution controls and verifiable completion criteria.
+
+- [When Coding Gets Cheaper, Choosing What to Build Matters More](https://jamescao2048.github.io/writing/choosing-work-with-coding-agents/) — How milestones, architecture decisions, and task specifications keep coding agents focused on work that matters.
